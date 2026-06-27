@@ -7,7 +7,7 @@
 
 ## 📌 Project Overview
 
-This repository contains **Project 1 – Data Cleaning & Preparation**, completed as part of the **DecodeLabs Data Analytics Internship**.
+This repository contains **Project-Data Cleaning & Preparation**, completed as part of the **Data Analytics Internship**.
 
 The objective of this project is to transform a raw dataset into a clean, analysis-ready dataset by applying standard data preprocessing techniques using **Python** and **Pandas**.
 
